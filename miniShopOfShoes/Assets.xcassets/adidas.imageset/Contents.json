@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "krossovki-adidas-originals-forum-84-low-fy4577-1-1000x800.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
